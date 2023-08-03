@@ -1,4 +1,4 @@
-# Team Project
+# Team Project: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
 
 Megapod: cotopaxi
 
