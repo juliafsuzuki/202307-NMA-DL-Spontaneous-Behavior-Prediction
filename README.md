@@ -1,4 +1,4 @@
-# 2023 Neuralmatch Academy Deel Learning Program
+# Team Project
 
 Goal: To solve linear regression problems by developing deep learning models using PyTorch 
 
