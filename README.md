@@ -2,7 +2,9 @@
 
 Project Name: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
  
-Team: The Amit-Golnaz-Arman-Julia (AGAJ) Team 
+Team Name: The Amit-Golnaz-Arman-Julia (AGAJ) Team
+
+Team Members: Amit Kumar, Golnaz Baghdadi, Arman Charan, Julia Suzuki
 
 Megapod: cotopaxi
 
