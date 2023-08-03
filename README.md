@@ -2,11 +2,11 @@
 
 Project Name: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
  
+Team: The Amit-Golnaz-Arman-Julia (AGAJ) Team 
+
 Megapod: cotopaxi
 
 Pod: othnielia_Zydeco
-
-Team: The Amit-Golnaz-Arman-Julia (AGAJ) Team 
 
 Motivation: Neuroscience is a field of study that examines the structure and function of the human brain and nervous system. The field of neuroscience is growing at an exponential rate thanks to the new advances in imaging technology.
 
