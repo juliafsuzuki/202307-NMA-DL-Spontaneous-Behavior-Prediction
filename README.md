@@ -1,5 +1,7 @@
-# Team Project: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
+# Team Project 
 
+Project Name: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
+ 
 Megapod: cotopaxi
 
 Pod: othnielia_Zydeco
