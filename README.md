@@ -1,6 +1,6 @@
 # Team Project 
 
-Project Name: "Spontaneous Behavior Prediction based on Neural Activity” of a mouse
+Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in visual cortex of awake mice
  
 Team Name: The Amit-Golnaz-Arman-Julia (AGAJ) Team
 
