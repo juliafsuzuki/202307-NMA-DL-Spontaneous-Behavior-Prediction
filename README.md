@@ -16,7 +16,9 @@ Abstract: I recently worked on a Deep Learning project where a group of 4 team m
 
 Dataset Name: Stringer Spontaneous Data
 
-Dataset Location: https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/projects/neurons/load_stringer_spontaneous.ipynb
+Dataset Location: 
+
+- https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/main/projects/neurons/load_stringer_spontaneous.ipynb
 
 Dataset Information: 
 
