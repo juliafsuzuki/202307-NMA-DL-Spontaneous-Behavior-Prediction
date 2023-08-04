@@ -1,4 +1,4 @@
-# Team Project 
+# Research Project 
 
 Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in visual cortex of awake mice
  
