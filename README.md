@@ -1,7 +1,7 @@
 # Research Project 
 
-Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in visual cortex of awake mice
- 
+Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in the visual cortex (v1) of awake mice
+
 Team Name: The Amit-Golnaz-Arman-Julia (AGAJ) Team
 
 Team Members: Amit Kumar, Golnaz Baghdadi, Arman Charan, Julia Suzuki
