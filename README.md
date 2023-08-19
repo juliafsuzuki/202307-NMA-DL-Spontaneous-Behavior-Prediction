@@ -1,4 +1,4 @@
-# Research Project 
+# Deep Leraning Project | Spontaneous Behavior Prediction based on Neural Activity
 
 Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in the visual cortex (V1) of awake mice
 
