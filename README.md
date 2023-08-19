@@ -26,3 +26,6 @@ Dataset Information:
 - https://www.youtube.com/watch?v=78GSgf6Dkkk
 - https://compneuro.neuromatch.io/projects/docs/projects_2020/neurons.html
 
+Medium Blog Post:
+
+- https://medium.com/@julia.f.suzuki/project-spontaneous-behavior-prediction-based-on-neural-activity-in-visual-cortex-of-awake-mice-13625eef46e4
