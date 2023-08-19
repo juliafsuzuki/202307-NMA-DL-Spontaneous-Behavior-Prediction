@@ -1,4 +1,4 @@
-# Deep Leraning | Spontaneous Behavior Prediction
+# Spontaneous Behavior Prediction using Deep Learning
 
 Project Name: "Spontaneous Behavior Prediction based on Neural Activity" in the visual cortex (V1) of awake mice
 
