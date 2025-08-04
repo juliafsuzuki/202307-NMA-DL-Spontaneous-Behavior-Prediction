@@ -8,7 +8,7 @@ Team Members: Amit Kumar, Golnaz Baghdadi, Arman Charan, Julia Suzuki
 
 Megapod: cotopaxi
 
-Pod: othnielia_Zydeco
+Pod: othnielia_zydeco
 
 Motivation: Neuroscience is a field of study that examines the structure and function of the human brain and nervous system. The field of neuroscience is growing at an exponential rate thanks to the new advances in imaging technology.
 
